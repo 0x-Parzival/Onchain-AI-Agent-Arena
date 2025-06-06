@@ -1,0 +1,21 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Hardhat
+cache/
+artifacts/
+ignition/deployments/
+ignition/exports/
+ignition/journals/
+ignition/parameters/
+ignition/runs/
+
+# Solidity (general, though covered by Hardhat's)
+build/
+
+# OS specific
+.DS_Store
+Thumbs.db
